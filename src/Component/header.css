@@ -1,0 +1,52 @@
+
+
+li a:hover:not(.active) {
+    background-color: #111;
+  }
+img{
+    width: 100px;
+    height: 50px;
+   
+
+  
+}
+ 
+  .header
+  {
+      background-color: palevioletred;
+      padding: 10px;
+  }
+  .footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:palevioletred;
+    color: white;
+    text-align: center;
+  }
+
+
+  .today_chores {
+    float:left; 
+    background: lightcyan;
+    
+    
+    width: 25%;
+    height: 1000px;
+  }
+  
+  .random_image{
+    float:left; 
+    background:lightcyan;
+    width:50%;
+    height: 1000px;
+    
+  }
+  .fav_mov{
+    float:right;
+    background:lightcyan;
+    width:25%;
+    height:1000px;
+  }
+  
